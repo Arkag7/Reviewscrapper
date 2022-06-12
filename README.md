@@ -1,2 +1,2 @@
 # Reviewscrapper
-Deployed to heroku: https://appnew10.herokuapp.com/
+Deployed to heroku: https://app1096.herokuapp.com/
